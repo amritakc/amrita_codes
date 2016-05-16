@@ -1,0 +1,25 @@
+{
+  "name": "amrita_codes",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amritakc/amrita_codes.git"
+  },
+  "author": "amrita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amritakc/amrita_codes/issues"
+  },
+  "homepage": "https://github.com/amritakc/amrita_codes#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.17"
+  }
+}
