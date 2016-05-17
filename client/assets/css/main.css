@@ -1878,7 +1878,7 @@
 				text-align: left;
 				padding: 0.5em 1em 0.5em 1em;
 				color: #fff;
-				background: #222729 url("images/overlay.png");
+				background: #222729 url("images/background.jpg");
 			}
 
 			table.default thead {
@@ -2163,7 +2163,7 @@
 
 			#main > section.one {
 				/*background-color: #81918E;*/
-				background-image: url("../../images/background.jpg");
+				background-image: url("../../static/background.jpg");
 			}
 
 			#main > section.two {
