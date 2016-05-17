@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/amritakc/amrita_codes#readme",
   "dependencies": {
+    "angular-carousel": "^1.0.1",
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
     "mongoose": "^4.4.17"
